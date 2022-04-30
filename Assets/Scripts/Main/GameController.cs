@@ -15,6 +15,9 @@ public class GameController : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Return))
             SceneManager.LoadScene(BouncingScene);
+
+        if (Input.GetKeyDown(KeyCode.Escape))
+            Application.Quit();
     }
 
     private void SwitchTime()
