@@ -5,6 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Main Menu.unity
+    guid: d741b5f6caa8e044fb9e65819ea9cadb
   - enabled: 1
     path: Assets/Scenes/Bouncing.unity
     guid: 2cda990e2423bbf4892e6590ba056729
